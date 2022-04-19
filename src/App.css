@@ -1,3 +1,8 @@
+body {
+  --monitoring-color: #5130A0;
+  --monitoring-background: #7A64FF;
+}
+
 .app {
   text-align: center;
 }
